@@ -1,0 +1,13 @@
+
+
+User Question
+     ↓
+Planner Agent
+     ↓
+SQL Writer Agent
+     ↓
+SQL Executor Tool
+     ↓
+Result Analyzer Agent
+     ↓
+Final Answer
