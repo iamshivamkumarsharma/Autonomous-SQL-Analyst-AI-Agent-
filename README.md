@@ -4,25 +4,6 @@
 
 
 autonomous-sql-agent/
-│
-├── agents/
-│   ├── planner.py
-│   ├── sql_writer.py
-│   ├── reflection.py
-│   └── analyzer.py
-│
-├── tools/
-│   └── sql_executor.py
-│
-├── graph/
-│   └── workflow.py
-│
-├── db/
-│   └── ecommerce.db
-│
-├── main.py
-├── requirements.txt
-└── README.md
 
 
 
