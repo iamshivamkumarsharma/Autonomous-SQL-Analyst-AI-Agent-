@@ -4,6 +4,26 @@
 
 
 autonomous-sql-agent/
+\# Autonomous SQL Analyst Agent
+
+An agentic AI system that converts natural language business questions into SQL,
+executes queries safely, self-corrects errors, and generates insights using
+LangGraph-based multi-agent workflows.
+
+## Features
+- Natural language to SQL
+- Multi-agent planning and execution
+- Self-healing SQL generation
+- State-machine workflow using LangGraph
+- Enterprise safety guardrails
+
+## Tech Stack
+Python, LangChain, LangGraph, SQLAlchemy, SQLite, LLMs
+
+## How to Run
+```bash
+pip install -r requirements.txt
+python main.py
 
 
 
